@@ -4,7 +4,7 @@
 `pip install streamlit plotly pandas numpy wordcloud matplotlib`
 
 ## To run 
-`streamlit run streamlit_app.py`
+`streamlit run app.py`
 
 ## Dashboard
 
